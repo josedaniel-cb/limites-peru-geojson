@@ -6,15 +6,15 @@ Límites distritales, provinciales y departamentales de Perú en formato GeoJSON
 
 Versión detallada:
 
-* [LIM_DISTRITAL_PERU.json](https://pip.pypa.io/)
-* [LIM_PROVINCIAL_PERU.json](https://pip.pypa.io/)
-* [LIM_DEPARTAMENTAL_PERU.json](https://pip.pypa.io/)
+* [LIM_DISTRITAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DISTRITAL_PERU.json)
+* [LIM_PROVINCIAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_PROVINCIAL_PERU.json)
+* [LIM_DEPARTAMENTAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DEPARTAMENTAL_PERU.json)
 
 Versión simplificada:
 
-* [LIM_DISTRITAL_PERU_MIN.json](https://pip.pypa.io/)
-* [LIM_PROVINCIAL_PERU_MIN.json](https://pip.pypa.io/)
-* [LIM_DEPARTAMENTAL_PERU_MIN.json](https://pip.pypa.io/)
+* [LIM_DISTRITAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DISTRITAL_PERU_MIN.json)
+* [LIM_PROVINCIAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_PROVINCIAL_PERU_MIN.json)
+* [LIM_DEPARTAMENTAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DEPARTAMENTAL_PERU_MIN.json)
 
 ## Contenido
 
