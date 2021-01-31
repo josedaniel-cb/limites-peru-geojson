@@ -6,15 +6,15 @@ Límites distritales, provinciales y departamentales de Perú en formato GeoJSON
 
 Versión detallada:
 
-* [LIM_DISTRITAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DISTRITAL_PERU.json) 70.3 MB
-* [LIM_PROVINCIAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_PROVINCIAL_PERU.json) 30.7 MB
-* [LIM_DEPARTAMENTAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DEPARTAMENTAL_PERU.json) 13.8 MB
+* [LIM_DISTRITAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DISTRITAL_PERU.json) (70.3 MB)
+* [LIM_PROVINCIAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_PROVINCIAL_PERU.json) (30.7 MB)
+* [LIM_DEPARTAMENTAL_PERU.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DEPARTAMENTAL_PERU.json) (13.8 MB)
 
 Versión simplificada:
 
-* [LIM_DISTRITAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DISTRITAL_PERU_MIN.json) 4.8 MB
-* [LIM_PROVINCIAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_PROVINCIAL_PERU_MIN.json) 1.8 MB
-* [LIM_DEPARTAMENTAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DEPARTAMENTAL_PERU_MIN.json) 862 KB
+* [LIM_DISTRITAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DISTRITAL_PERU_MIN.json) (4.8 MB)
+* [LIM_PROVINCIAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_PROVINCIAL_PERU_MIN.json) (1.8 MB)
+* [LIM_DEPARTAMENTAL_PERU_MIN.json](https://github.com/josedaniel-cb/limites-peru-geojson/blob/main/LIM_DEPARTAMENTAL_PERU_MIN.json) (862 KB)
 
 ## Contenido
 
