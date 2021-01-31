@@ -6,15 +6,15 @@ Límites distritales, provinciales y departamentales de Perú en formato GeoJSON
 
 Versión detallada:
 
-* [LIMITE_DISTRITAL_PERU.json](https://pip.pypa.io/)
-* [LIMITE_PROVINCIAL_PERU.json](https://pip.pypa.io/)
-* [LIMITE_DEPARTAMENTAL_PERU.json](https://pip.pypa.io/)
+* [LIM_DISTRITAL_PERU.json](https://pip.pypa.io/)
+* [LIM_PROVINCIAL_PERU.json](https://pip.pypa.io/)
+* [LIM_DEPARTAMENTAL_PERU.json](https://pip.pypa.io/)
 
 Versión simplificada:
 
-* [LIMITE_DISTRITAL_PERU_MIN.json](https://pip.pypa.io/)
-* [LIMITE_PROVINCIAL_PERU_MIN.json](https://pip.pypa.io/)
-* [LIMITE_DEPARTAMENTAL_PERU_MIN.json](https://pip.pypa.io/)
+* [LIM_DISTRITAL_PERU_MIN.json](https://pip.pypa.io/)
+* [LIM_PROVINCIAL_PERU_MIN.json](https://pip.pypa.io/)
+* [LIM_DEPARTAMENTAL_PERU_MIN.json](https://pip.pypa.io/)
 
 ## Contenido
 
